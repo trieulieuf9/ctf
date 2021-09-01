@@ -1,0 +1,16 @@
+thread-7
+- 0006
+login_1_get: 200
+login_1_post: 302
+login_2_get: 200
+login_2_post: 200
+- 0012
+login_1_get: 200
+login_1_post: 302
+login_2_get: 200
+login_2_post: 200
+- 0025
+login_1_get: 200
+login_1_post: 302
+login_2_get: 200
+login_2_post: 200

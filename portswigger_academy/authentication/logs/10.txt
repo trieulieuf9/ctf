@@ -1,0 +1,11 @@
+thread-10
+- 0009
+login_1_get: 200
+login_1_post: 302
+login_2_get: 200
+login_2_post: 200
+- 0018
+login_1_get: 200
+login_1_post: 302
+login_2_get: 200
+login_2_post: 200
