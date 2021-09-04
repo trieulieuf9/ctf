@@ -1,0 +1,27 @@
+--- Hackyholidays CTF ---
+- view-source:http://35.227.24.107/4d689f55fc/my-diary/?template=secretadminsecretadminadmin.php.php.php
++ how to spoof $_SERVER['REMOTE_ADDR'] ???
++ or do i need ssrf to get this flag?
+
+
+
+--- Google CTF Beginner Quest ---
+https://capturetheflag.withgoogle.com/beginners-quest
+Read writeups
++ ReadySetAction - Buenos Aires Conference - l7
++ Hide and Seek - l8
++ High Speed Chase
+
+
+
+RWL9MHYX
+NKPNJRCH
+W92NLMRM
+XXMWWHFM challenge 5
+
+--- ALLES! CTF 2021 ---
+https://play.allesctf.net/
+Read write up
+- pyimplant
+- J(ust)-S(erving)-P(ages)
+- Nostego
