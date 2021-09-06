@@ -8,7 +8,10 @@
 --- Google CTF Beginner Quest ---
 https://capturetheflag.withgoogle.com/beginners-quest
 Read writeups
-+ ReadySetAction - Buenos Aires Conference - l7
+- ReadySetAction - Buenos Aires Conference - l7
++ hint for inverse modulus A % b = c => A = c + b * k , where k is an integer (usually postive integer)
++ yep just brute force k until you get a perfect cube root
+
 + Hide and Seek - l8
 + High Speed Chase
 
